@@ -1,6 +1,6 @@
 # Daily Reminder App
 
-![Check Me!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FPidt&psig=AOvVaw2DxToI5TM86vamymWNBQdd&ust=1642586598097000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCRjOaHu_UCFQAAAAAdAAAAABA4)
+![Check Me!](https://cpng.pikpng.com/pngl/s/75-754667_fcps-md-reminder-clipart-png-transparent-png.png)
 
 _So tried my first react-app trying to work on a project who befriends you and keep you up-to-date on your daily 
 tasks with those annoying constant rings It have the functionality of adding task in it deleting the tasks that is done at the end of the day and check out if all the priority works are done._

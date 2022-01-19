@@ -7,7 +7,7 @@ tasks with those annoying constant rings It have the functionality of adding tas
 
 _Techstack used till now on the project are HTML, CSS, Bootstrape, reactjs, React-router(version 6.2.1)._
 
-## Available Link to creat your very own first check-list
+## Available Link to create your very own first check-list
 _ClickMe!()_
 
 _In the project directory, you can run:_
